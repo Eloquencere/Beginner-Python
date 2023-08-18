@@ -1,0 +1,1 @@
+print([i**2 for i in range (30+1)][5:])
